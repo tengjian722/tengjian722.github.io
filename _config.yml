@@ -80,23 +80,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jian Teng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
+  bio              : "PhD Candidiate in the Center of Fluids Mechanics at Brown University"
+  location         : "Providence, Rhode Island, USA"
+  googlescholar    : "https://scholar.google.com/citations?user=TZ_5hrYAAAAJ&hl=en"
+  email            : "jian_teng@brown.edu
+  uri              : 
+  orcid        : "https://orcid.org/0000-0003-0262-5680"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tengjian722"
   google_plus      :
   keybase          :
   instagram        :
