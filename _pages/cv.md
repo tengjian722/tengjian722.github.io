@@ -16,3 +16,11 @@ Education
 * Ph.D in Engineering, Brown University, 2024 (expected)
 
 You can download my CV [here]() (Last update 2020)
+
+Teaching
+======
+Spring 2022: Teaching Assistant ENGN1710 Heat Transfer, Brown University
+Spring 2018: Teaching Assistant ME4080 Experimental Engineering, University of Iowa
+Spring 2017: Teaching Assistant ENGR2130 Thermodynamics, University of Iowa
+Summer 2017: Teaching Assistant ENGR2110 Statics (Online Course), University of Iowa
+Fall 2016: Discussion Section Instructor ENGR2710 Dynamics, University of Iowa
