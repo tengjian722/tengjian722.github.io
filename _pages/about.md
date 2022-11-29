@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Page under construction!
+I am a PhD candidate at the Center for Fluid Mechanics at Brown University. My current research interests are complex fluids, fluid transport phenomena, numerical analysis, high-performance computing, and wind energy.
