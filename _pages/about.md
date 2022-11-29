@@ -13,4 +13,10 @@ I am a PhD candidate at the Center for Fluid Mechanics at Brown University under
 
 Updates
 ======
+**2022** Our paper "[Coupling of translation and rotation in the motion of finite-length rods near solid boundaries](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/coupling-of-translation-and-rotation-in-the-motion-of-finitelength-rods-near-solid-boundaries/DB4118B973ADE6C6B0D9F50FDE9EF515)" was published on Journal of Fluid Mechanics.
 
+**2020** Our paper "[A calibration procedure for an analytical wake model using wind farm operational data](https://www.mdpi.com/1996-1073/13/14/3537)" was published on Energies.
+
+**2020** I presented our recent work "Calibration Procedure for Gaussian-based Analytical Wake Model Using SCADA Data" at APS DFD 2020.
+
+**2019** My master study about "Monitoring Bat Activities at a Large Wind Farm" was presented at 2019 AGU Fall meeting and highlighted at [AGU news](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/).
