@@ -24,3 +24,5 @@ Updates
 **2020** I presented our recent work "Calibration Procedure for Gaussian-based Analytical Wake Model Using SCADA Data" at APS DFD 2020 (online).
 
 **2019** My master study about "Monitoring Bat Activities at a Large Wind Farm" was presented at 2019 AGU Fall meeting and highlighted at [AGU news](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/).
+
+**2019** I presented our work "Strategies for Mitigating Bat Impacts Using Smart Wind Turbine Curtailment" at NAWEA/WindTech 2019 Conference.
