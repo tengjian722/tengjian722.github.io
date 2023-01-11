@@ -7,6 +7,7 @@ author_profile: true
 
 Diffusioosmotic dispersion
 ======
+Working in progress, to be coming soon!
 1<br/><img src='/images/500x300.png'>
 
 
@@ -18,4 +19,9 @@ We studied the the low-Reynolds-number flow around finite rods that are allowed 
 A calibration procedure for an analytical wake model using SCADA data
 ======
 Wind turbine wakes are responsible for the reduction of wind farm power generation. Our goal is to develop a procedure for wind farm wake modeling using a Gaussian-based analytical wake model and wind farm operational data. The procedure can help to optimize wind farm power generation and understand low wind regions.
-<br/><img src='/images/wind_wake.png' width="350">
+<br/><img src='/images/wind_wake.png' width="350"><br/><img src='/images/IMG-6377' width="350">
+
+Monitoring bat activities at a large wind farm
+======
+Wind energy is the fastest-growing renewable energy source. However, bat fatalities associated with wind power generation is a rising concern. In order to study the interaction of bats with wind turbines and to investigate the feasibility of using remote sensing tools for bat detection at a large wind farm, we conducted a multi-instrument bat detection experiment during the bat fall migration period within a wind farm in Iowa, USA. 
+<br/><img src='/images/IMG-6371' width="400">
