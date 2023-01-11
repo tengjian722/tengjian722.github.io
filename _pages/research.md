@@ -18,3 +18,4 @@ We studied the the low-Reynolds-number flow around finite rods that are allowed 
 A calibration procedure for an analytical wake model using SCADA data
 ======
 Wind turbine wakes are responsible for the reduction of wind farm power generation. Our goal is to develop a procedure for wind farm wake modeling using a Gaussian-based analytical wake model and wind farm operational data. The procedure can help to optimize wind farm power generation and understand low wind regions.
+<br/><img src='/images/wind_wake.png' width="350">
