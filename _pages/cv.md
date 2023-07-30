@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechanical Engineering, The University of Iowa, 2018
 * M.S. in Mechanical Engineering, The University of Iowa, 2020
-* Ph.D in Engineering, Brown University, 2024 (expected)
+* Ph.D in Engineering, Brown University, 2025 (expected)
 
 You can download my CV [here](https://tengjian722.github.io/files/Teng_CV_July2023.pdf)(Last update 2023)
 
