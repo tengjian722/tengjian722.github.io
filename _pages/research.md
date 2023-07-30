@@ -7,8 +7,8 @@ author_profile: true
 
 Diffusioosmotic dispersion
 ======
-Working in progress, to be coming soon!
-1<br/><img src='/images/500x300.png'>
+In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derive theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction.
+1<br/><img src='/images/graphical abstract_1-01.jpg' width="350" height="300">
 
 
 Dynamics of finite-length rods near solid boundaries
