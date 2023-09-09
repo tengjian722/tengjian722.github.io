@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Center for Fluid Mechanics at Brown University under supervision of [Prof. Ault](https://sites.brown.edu/aultlab/). I received my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa. My current research interests include complex fluids, fluid and thermal transport phenomena, numerical analysis, high-performance computing, and wind energy.
+I am a Ph.D. candidate at the Center for Fluid Mechanics at Brown University under supervision of [Prof. Jesse Ault](https://sites.brown.edu/aultlab/). I received my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa. My current research interests include complex fluids, fluid and thermal transport phenomena, computational fluid dynamics, numerical analysis, high-performance computing, and wind energy.
 
 Updates
 ======
+**2023:** I will present our study "Theoretical and numerical models of depth-confined Brinkman flow" at APS DFD 2023 in Washington DC.
+
 **2022:** I presented our study "Diffusioosmotic dispersion in a long, narrow channel" at APS DFD 2022 in Indianapolis IN.
 
 **2022:** Our paper "[Coupling of translation and rotation in the motion of finite-length rods near solid boundaries](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/coupling-of-translation-and-rotation-in-the-motion-of-finitelength-rods-near-solid-boundaries/DB4118B973ADE6C6B0D9F50FDE9EF515)" was published on Journal of Fluid Mechanics.
