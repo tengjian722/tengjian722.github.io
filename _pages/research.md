@@ -7,7 +7,7 @@ author_profile: true
 
 Diffusioosmotic dispersion
 ======
-In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derived theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction. In addition, we used numerical simulations to validate our theoretical predictions.
+In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derived theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction. In addition, we used numerical simulations to validate our theoretical predictions. [Preprint](https://arxiv.org/abs/2305.02537).
 <br/><img src='/images/graphical abstract_1-01.jpg' width="350" height="300">
 
 
