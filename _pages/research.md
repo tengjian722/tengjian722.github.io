@@ -7,7 +7,7 @@ author_profile: true
 
 Diffusioosmotic dispersion
 ======
-In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derived theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction. In addition, we use numerical simulations to validate our theoretical predictions.
+In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derived theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction. In addition, we used numerical simulations to validate our theoretical predictions.
 <br/><img src='/images/graphical abstract_1-01.jpg' width="350" height="300">
 
 
@@ -23,5 +23,5 @@ Wind turbine wakes are responsible for the reduction of wind farm power generati
 
 Monitoring bat activities at a large wind farm
 ======
-Wind energy is the fastest-growing renewable energy source. However, bat fatalities associated with wind power generation is a rising concern. In order to study the interaction of bats with wind turbines and to investigate the feasibility of using remote sensing tools for bat detection at a large wind farm, we conducted a multi-instrument bat detection experiment during the bat fall migration period within a wind farm in Iowa, USA. 
+Wind energy is the fastest-growing renewable energy source. However, bat fatalities associated with wind power generation is a rising concern. In order to study the interaction of bats with wind turbines and to investigate the feasibility of using remote sensing tools for bat detection at a large wind farm, we conducted a multi-instrument bat detection experiment during the bat fall migration period within a wind farm in Iowa, USA. [News Highlight](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)
 <br/><img src='/images/IMG-6371.JPG' width="600">
