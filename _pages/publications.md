@@ -11,4 +11,4 @@ author_profile: true
 Work in progress
 ------
 1. J. Teng, B. Rallabandi, J. Ault, "Diffusioosmotic dispersion in a long, narrow channel", In revision for publication in Journal of Fluid Mechanics, [Link](https://arxiv.org/abs/2305.02537)
-2. J. Teng, S. La, J. Ault, "Newtonian fluid dynamics in a misaligned parallel-plate rheometer", [Link](https://arxiv.org/abs/2310.05409) Submitted to Physical Review Fluids
+2. J. Teng, S. La, J. Ault, "Newtonian fluid dynamics in a misaligned parallel-plate rheometer", Submitted to Physical Review Fluids [Link](https://arxiv.org/abs/2310.05409) 
