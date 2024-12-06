@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Center for Fluid Mechanics at Brown University under supervision of [Prof. Jesse Ault](https://sites.brown.edu/aultlab/). I received my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa. My current research interests include complex fluids, fluid and thermal transport phenomena, computational fluid dynamics, numerical analysis, high-performance computing, and wind energy.
+I earned my Ph.D. in Engineering from Brown University, where I was a member of Fluids and Thermal Sciences Group under the guidance of [Prof. Jesse Ault](https://sites.brown.edu/aultlab/). Prior to that, I obtained my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa. My current research interests include complex fluids, fluid and thermal transport phenomena, Heat and Mass Transfer, computational fluid dynamics, numerical analysis, high-performance computing, and wind energy. Currently, I am a postdoctoral associate at Rice University.
 
 Updates
 ======
+**Oct 2024:** I earned my Ph.D. in Engineering from Brown University!!!
+
+**July 2024:** Please check out our paper "[Newtonian fluid dynamics in a misaligned parallel-plate rheomete](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.074103)r" in Physical Review Fluids.
+
 **2023:** I will present our study "Theoretical and numerical models of depth-confined Brinkman flow" at APS DFD 2023 in Washington DC.
 
 **2022:** I presented our study "Diffusioosmotic dispersion in a long, narrow channel" at APS DFD 2022 in Indianapolis IN.
