@@ -14,7 +14,7 @@ Updates
 ======
 **Oct 2024:** I earned my Ph.D. in Engineering from Brown University!!!
 
-**July 2024:** Please check out our paper "[Newtonian fluid dynamics in a misaligned parallel-plate rheomete](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.074103)r" in Physical Review Fluids.
+**July 2024:** Please check out our paper "[Newtonian fluid dynamics in a misaligned parallel-plate rheometer](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.074103)" in Physical Review Fluids.
 
 **2023:** I will present our study "Theoretical and numerical models of depth-confined Brinkman flow" at APS DFD 2023 in Washington DC.
 
