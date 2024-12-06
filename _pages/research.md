@@ -4,10 +4,14 @@ title: "Research projects"
 permalink: /research/
 author_profile: true
 ---
-
-Diffusioosmotic dispersion
+Newtonian fluid dynamics in a misaligned parallel-plate rheometer
 ======
-In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derived theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction. In addition, we used numerical simulations to validate our theoretical predictions. [Preprint](https://arxiv.org/abs/2305.02537).
+This study examines the effect that misalignment has on the viscosity measurements of Newtonian fluids in a parallel-plate rotational rheometer. Our theoretical model shows that misalignment introduces additional secondary flows and pressure in the fluid, which affect the forces and moments in the rheometer. The paper is published in [Physical Review Fluids](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.9.074103).
+<br/><img src='/images/teaser.png' width="350" height="300">
+
+Diffusioosmotic dispersion of Solute
+======
+In this study, we study the dispersion induced by the diffusioosmotic motion near a charged wall in the presence of a solute concentration gradient. We derived theoretical predictions for the solute dynamics using a multiple-timescale analysis to quantify the dispersion driven by the solute-surface interaction. In addition, we used numerical simulations to validate our theoretical predictions. The paper is published in [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/diffusioosmotic-dispersion-of-solute-in-a-long-narrow-channel/18FAED3C61CEAC9F2C5460AFE9A58B44).
 <br/><img src='/images/graphical abstract_1-01.jpg' width="350" height="300">
 
 
