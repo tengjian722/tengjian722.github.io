@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Engineering from Brown University, where I was a member of Fluids and Thermal Sciences Group under the guidance of [Prof. Jesse Ault](https://sites.brown.edu/aultlab/). Prior to that, I obtained my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa. My current research interests include complex fluids, fluid and thermal transport phenomena, Heat and Mass Transfer, computational fluid dynamics, numerical analysis, high-performance computing, and wind energy. Currently, I am a postdoctoral associate at Rice University.
+I earned my Ph.D. in Engineering from Brown University, where I was a member of Fluids and Thermal Sciences Group under the guidance of [Prof. Jesse Ault](https://sites.brown.edu/aultlab/). Prior to that, I obtained my B.S. and M.S. degrees in Mechanical Engineering from the University of Iowa. My current research interests include complex fluids, fluid and thermal transport phenomena, Heat and Mass Transfer, computational fluid dynamics, numerical analysis, high-performance computing, and wind energy. Currently, I am a postdoctoral associate at Rice University under the guidance of [Prof. Yong Lin Kong](https://profiles.rice.edu/faculty/yong-lin-kong).
 
 Updates
 ======
