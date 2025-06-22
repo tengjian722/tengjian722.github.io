@@ -2,31 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Jian Teng
+    - name: Address
+      value: 6100 Main St., Houston, TX, 77005
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Engineering Fluids and Thermal Sciences
+      institution: Brown University
+      year: 2024-10-20
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Lubrication models for fluid and structure interactions in microfluidic environments
+    - title: M.S. in Mechanical Engineering
+      institution: The University of Iowa
+      year: 2020-05
       description:
-        - Description 1.
-        - Description 2.
+        - Wind farm wake modeling for power prediction and detection of wildlife activity using X-band Doppler radar
+    - title: B.S.E. in Mechanical Engineering with Mathematics minor
+      institution: The University of Iowa
+      year: 2018-05
 
 - title: Experience
   type: time_table
