@@ -21,36 +21,51 @@
       "endDate": "Now",
       "summary": "Develop near-field microwave 3D printing technique for nanomaterial manufacturing and solve fundamental thermal-fluid challenges to improve 3D-printed functioanl electronics",
       "highlights": ["Addtive manufacturing"]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Tokyo Electron Limited",
+      "position": "Research Scientist I / Technical Intern III",
+      "startDate": "2024-06-02",
+      "endDate": "2024-09-15",
+      "summary": "Developed coupled multiphysics simulations for single wafer wet etching and cleaning processes",
+      "highlights": ["Semiconductor manufacturing"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Brown University",
+      "location": "Providence, Rhode Island, USA",
+      "url": "https://www.brown.edu/",
+      "area": "Engineering, Fluids and Thermal Sciences",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2020-09-01",
+      "endDate": "2024-10-20",
+      "courses": ["Engineering, Fluids and Thermal Sciences"]
+    },
+    {
+      "institution": "The University of Iowa",
+      "location": "Iowa City, Iowa, USA",
+      "url": "https://www.uiowa.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2018-08-01",
+      "endDate": "2020-05-01",
+      "courses": ["Mechanical Engineering"]
+    },
+    {
+      "institution": "The University of Iowa",
+      "location": "Iowa City, Iowa, USA",
+      "url": "https://www.uiowa.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.E.",
+      "startDate": "2014-08-01",
+      "endDate": "2018-05-01",
+      "courses": ["Mechanical Engineering"]
+    },
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "Brown University Fellowship",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
