@@ -23,26 +23,6 @@
       institution: The University of Iowa
       year: 2018-05
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Associate
-      institution: Department of Mechanical Engineering, Rice University
-      year: 2024-10
-      description:
-        - Develop near-field microwave 3D printing technique for nanomaterial manufacturing
-        - Lead research in the investigation of focused dewetting in quantum dot depositions
-        - Solve fundamental thermal-fluid challenges to improve 3D-printed functional electronics
-    - title: Research Scientist I / Technical Intern III
-      institution: Tokyo Electron Limited
-      year: 2024-06 - 2024-09
-      description:
-        - Develop fully coupled multiphysics simulations for single wafer wet etching and cleaning processes
-
-    - title: Summer Intern
-      institution: IIHR-Hydroscience & Engineering, The University of Iowa
-      year: 2018-05 - 2018-08
-
 - title: Academic Interests
   type: nested_list
   contents:
