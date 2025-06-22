@@ -43,30 +43,28 @@
       institution: IIHR-Hydroscience & Engineering, The University of Iowa
       year: 2018-05 - 2018-08
 
-- title: Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Fluid dynamics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Thin-film flow and lubrication model
+        - Soft matter physics
+        - Computational fluid dynamics (CFD)
+        - Theoretical fluid dynamics
+    - title: Multi-physics transport phenomena
       items:
-        - Description 1.
-        - Description 2.
+        - Numerical simulation
+        - Solute and particle transport
+        - Heat transfer
+        - Fluid and structure interactions
+    - title: Advanced manufacturing
+      items:
+        - Additive manufacturing (aka. 3D printing)
+        - Metamaterial for novel biomeidcal devices
+        - Quantum dot deposition
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Skiing, Photography, Biking, Running, Traveling 
