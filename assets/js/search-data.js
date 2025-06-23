@@ -65,8 +65,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-presented-our-work-strategies-for-mitigating-bat-impacts-using-smart-wind-turbine-curtailment-at-nawea-windtech-2019-conference",
+          title: 'I presented our work “Strategies for Mitigating Bat Impacts Using Smart Wind Turbine...',
           description: "",
           section: "News",},{
         id: 'social-linkedin',
