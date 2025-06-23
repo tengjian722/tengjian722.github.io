@@ -57,11 +57,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-i-presented-our-work-strategies-for-mitigating-bat-impacts-using-smart-wind-turbine-curtailment-at-nawea-windtech-2019-conference",
+            },},{id: "news-i-presented-our-work-strategies-for-mitigating-bat-impacts-using-smart-wind-turbine-curtailment-at-nawea-windtech-2019-conference",
           title: 'I presented our work “Strategies for Mitigating Bat Impacts Using Smart Wind Turbine...',
+          description: "",
+          section: "News",},{id: "news-my-master-study-about-monitoring-bat-activities-at-a-large-wind-farm-was-presented-at-2019-agu-fall-meeting-and-highlighted-at-agu-news",
+          title: 'My master study about “Monitoring Bat Activities at a Large Wind Farm” was...',
           description: "",
           section: "News",},{
         id: 'social-linkedin',
