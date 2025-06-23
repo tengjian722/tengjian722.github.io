@@ -60,12 +60,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-i-presented-our-work-strategies-for-mitigating-bat-impacts-using-smart-wind-turbine-curtailment-at-nawea-windtech-2019-conference",
+          section: "News",},{id: "news-i-presented-our-work-strategies-for-mitigating-bat-impacts-using-smart-wind-turbine-curtailment-at-nawea-windtech-2019-conference",
           title: 'I presented our work “Strategies for Mitigating Bat Impacts Using Smart Wind Turbine...',
           description: "",
           section: "News",},{
