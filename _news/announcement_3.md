@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I presented our work "Strategies for Mitigating Bat Impacts Using Smart Wind Turbine Curtailment" at NAWEA/WindTech 2019 Conference.
