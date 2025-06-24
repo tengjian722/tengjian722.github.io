@@ -94,6 +94,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-completed-my-ph-d-in-engineering-from-brown-university-i-will-be-joining-rice-university-as-a-postdoctoral-associate-in-dr-yong-lin-kong-s-group",
           title: 'I completed my Ph.D. in Engineering from Brown University!!! I will be joining...',
           description: "",
+          section: "News",},{id: "news-our-work-the-continuous-actuation-of-liquid-metal-with-a-3d-printed-electrowetting-device-is-published-in-med-x",
+          title: 'Our work The continuous actuation of liquid metal with a 3D-printed electrowetting device...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
