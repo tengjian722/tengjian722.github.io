@@ -97,6 +97,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-the-continuous-actuation-of-liquid-metal-with-a-3d-printed-electrowetting-device-is-published-in-med-x",
           title: 'Our work “The continuous actuation of liquid metal with a 3D-printed electrowetting device”...',
           description: "",
+          section: "News",},{id: "news-please-check-out-our-new-paper-curvature-dependent-propulsion-of-elastic-flagella-is-published-in-soft-matter-this-work-has-been-awarded-the-soft-matter-emerging-investigators",
+          title: 'Please check out our new paper “Curvature-dependent propulsion of elastic flagella” is published...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
