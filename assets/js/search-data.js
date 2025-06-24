@@ -95,7 +95,7 @@ ninja.data = [{
           title: 'I completed my Ph.D. in Engineering from Brown University!!! I will be joining...',
           description: "",
           section: "News",},{id: "news-our-work-the-continuous-actuation-of-liquid-metal-with-a-3d-printed-electrowetting-device-is-published-in-med-x",
-          title: 'Our work The continuous actuation of liquid metal with a 3D-printed electrowetting device...',
+          title: 'Our work “The continuous actuation of liquid metal with a 3D-printed electrowetting device”...',
           description: "",
           section: "News",},{
         id: 'social-linkedin',
