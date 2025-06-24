@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my Ph.D. in Engineering from Brown University!!! I will be joining Rice University as a postdoctoral associate at Dr. Yong Lin Kong's group.
+I completed my Ph.D. in Engineering from Brown University!!! I will be joining Rice University as a postdoctoral associate in Dr. Yong Lin Kong's group.
