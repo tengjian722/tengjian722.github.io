@@ -91,7 +91,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-present-our-study-theoretical-and-numerical-models-of-depth-confined-brinkman-flow-at-aps-dfd-2023-in-washington-dc",
           title: 'I will present our study “Theoretical and numerical models of depth-confined Brinkman flow”...',
           description: "",
-          section: "News",},{id: "news-i-completed-my-ph-d-in-engineering-from-brown-university-i-will-be-joining-rice-university-as-a-postdoctoral-associate-at-dr-yong-lin-kong-s-group",
+          section: "News",},{id: "news-i-completed-my-ph-d-in-engineering-from-brown-university-i-will-be-joining-rice-university-as-a-postdoctoral-associate-in-dr-yong-lin-kong-s-group",
           title: 'I completed my Ph.D. in Engineering from Brown University!!! I will be joining...',
           description: "",
           section: "News",},{
