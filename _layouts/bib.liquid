@@ -73,14 +73,7 @@
           {%- endfor -%}
         {%- endif -%}
 
-        {%- if forloop.length > 1 -%}
-          {%- if forloop.last -%}
-            , and 
-          {%- elsif forloop.first == false -%}
-            , 
-          {%- endif -%}
-        {%- endif -%}
-
+        {%- comment %} Renders the author's name first. {%- endcomment %}
         {%- if author_is_self -%}
           <em>{{ author.first }} {{ author_last_html }}</em>
         {%- else -%}
@@ -88,6 +81,16 @@
             <a href="{{ coauthor_url }}">{{ author.first }} {{ author_last_html }}</a>
           {%- else -%}
             {{ author.first }} {{ author_last_html }}
+          {%- endif -%}
+        {%- endif -%}
+        
+        {%- comment %} This block now adds the separator *after* the author's name. {%- endcomment %}
+        {%- if forloop.last == false -%}
+          {%- assign next_index = forloop.index | plus: 1 -%}
+          {%- if next_index == forloop.length -%}
+            , and&nbsp;
+          {%- else -%}
+            ,&nbsp;
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
