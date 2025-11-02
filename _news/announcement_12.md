@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Please check out our new paper "[Curvature-dependent propulsion of elastic flagella](https://pubs.rsc.org/en/content/articlehtml/2025/sm/d4sm01548g)" is published in Soft Matter. This work has been awarded the Soft Matter Emerging Investigators.
+Please check out our new paper "[Curvature-dependent propulsion of elastic flagella](https://pubs.rsc.org/en/content/articlehtml/2025/sm/d4sm01548g)", which was published in Soft Matter. This work has been awarded the Soft Matter Emerging Investigators.
