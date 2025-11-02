@@ -100,6 +100,9 @@ ninja.data = [{
           section: "News",},{id: "news-please-check-out-our-new-paper-curvature-dependent-propulsion-of-elastic-flagella-is-published-in-soft-matter-this-work-has-been-awarded-the-soft-matter-emerging-investigators",
           title: 'Please check out our new paper “Curvature-dependent propulsion of elastic flagella” is published...',
           description: "",
+          section: "News",},{id: "news-please-check-out-our-new-paper-soft-multistable-magnetic-responsive-metamaterials-which-was-published-in-science-advances-this-work-has-featured-in-rice-news",
+          title: 'Please check out our new paper “Soft multistable magnetic-responsive metamaterials”, which was published...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
