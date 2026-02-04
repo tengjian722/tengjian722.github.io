@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 ---
 
-You can contact me via email: Jian.Teng@rice.edu
+You can contact me via email: tengjian722[at]gmail[dot]com
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/jianteng/)
 
