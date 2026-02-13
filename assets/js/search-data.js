@@ -103,6 +103,9 @@ ninja.data = [{
           section: "News",},{id: "news-please-check-out-our-new-paper-soft-multistable-magnetic-responsive-metamaterials-which-was-published-in-science-advances-this-work-has-featured-in-rice-news",
           title: 'Please check out our new paper “Soft multistable magnetic-responsive metamaterials”, which was published...',
           description: "",
+          section: "News",},{id: "news-please-check-out-my-new-paper-three-dimensional-printing-of-nanomaterials-based-electronics-with-a-metamaterial-inspired-near-field-electromagnetic-structure-which-was-published-in-science-advances",
+          title: 'Please check out my new paper “Three-dimensional printing of nanomaterials-based electronics with a...',
+          description: "",
           section: "News",},{
         id: 'social-linkedin',
         title: 'LinkedIn',
